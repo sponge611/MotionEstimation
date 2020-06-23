@@ -2,7 +2,7 @@
 
 [Spec](https://drive.google.com/file/d/14Nkf8wi2dx_ZByNNjQ05xW6ZwzcaFkx1/view?usp=sharing)
 
-
+# Code Functionality
 這次的作業有三個.m檔
 
 FullSearch.m為function檔，會被hw3.m呼叫到
